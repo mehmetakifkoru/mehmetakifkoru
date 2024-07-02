@@ -9,4 +9,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
+![snake gif](https://github.com/mehmetakifkoru/blob/output/github-contribution-grid-snake.gif)
